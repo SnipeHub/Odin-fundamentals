@@ -1,0 +1,2 @@
+# Odin fundamentals
+ Odin language
